@@ -1,0 +1,14 @@
+{
+  "name": "npm-next-7",
+  "version": "0.0.0-next-7",
+  "description": "Depends on the next version of npm 7 to add it to the pool of dependencies even if your project already depends on another version of npm",
+  "author": "EIGHTFINITE",
+  "license": "MIT-0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EIGHTFINITE/npm-next-7.git"
+  },
+  "dependencies": {
+    "npm": "next-7"
+  }
+}
